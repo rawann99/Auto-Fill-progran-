@@ -1,4 +1,4 @@
-# Auto-Fill-progran-
+# Auto-Fill-program-
 Problem (Auto Fill):
 Collect corpus minimum contain 200,000 words in cancer field 
 Using Bigram.
